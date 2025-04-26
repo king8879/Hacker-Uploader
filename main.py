@@ -37,9 +37,9 @@ from config import *
 # watermark_text = ""
 
 # bot = Client("bot",
-#              bot_token=os.environ.get("BOT_TOKEN"),
-#              api_id=int(os.environ.get("API_ID")),
-#              api_hash=os.environ.get("API_HASH"))
+#              bot_token=os.environ.get("7370337739:AAH3pjIlvyyqHqdHFKWJR8hnbnuvobbkVA4"),
+#              api_id=int(os.environ.get("22923037")),
+#              api_hash=os.environ.get("dfb3666878b3851460a58461c5a50f5b"))
 
 bot_token_check=bot_token
 
@@ -48,8 +48,8 @@ bot = Client("bot",
              api_id= api_id,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
              api_hash=api_hash)
 
-owner_id = OWNER
-auth_users = ADMINS
+owner_id = 6554343173
+auth_users = 6554343173
 
 
 photo = "youtube.jpg"
