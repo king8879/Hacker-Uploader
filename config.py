@@ -2,7 +2,7 @@ import os
 
 api_id =  22923037
 api_hash  = 'dfb3666878b3851460a58461c5a50f5b'
-bot_token =  '7370337739:AAH3pjIlvyyqHqdHFKWJR8hnbnuvobbkVA4'
+bot_token =  '7913296873:AAEp6wXMcKxJRhM5yJHhyTxFCL88NcTIBRo'
 OWNER =  6554343173
 OWNER_USERNAME = 'vighnesh9820'
 LOG =  -1002540145139
