@@ -37,9 +37,9 @@ from config import *
 # watermark_text = ""
 
 # bot = Client("bot",
-#              bot_token=os.environ.get("7370337739:AAH3pjIlvyyqHqdHFKWJR8hnbnuvobbkVA4"),
-#              api_id=int(os.environ.get("22923037")),
-#              api_hash=os.environ.get("dfb3666878b3851460a58461c5a50f5b"))
+#              bot_token=os.environ.get("7785698962:AAEzWmSCdV1x5NXzzaRhp1jIupqwyl1RCtg"),
+#              api_id=int(os.environ.get("18579024")),
+#              api_hash=os.environ.get("124981da628d86e21ee492da77cd4037"))
 
 bot_token_check=bot_token
 
